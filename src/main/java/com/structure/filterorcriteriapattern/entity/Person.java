@@ -1,4 +1,4 @@
-package com.structure.FilterOrCriteriaPattern.entity;
+package com.structure.filterorcriteriapattern.entity;
 
 /**
  * @author：ZDY

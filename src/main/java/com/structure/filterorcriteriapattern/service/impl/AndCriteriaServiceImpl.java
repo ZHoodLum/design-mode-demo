@@ -1,7 +1,7 @@
-package com.structure.FilterOrCriteriaPattern.service.impl;
+package com.structure.filterorcriteriapattern.service.impl;
 
-import com.structure.FilterOrCriteriaPattern.entity.Person;
-import com.structure.FilterOrCriteriaPattern.service.CriteriaService;
+import com.structure.filterorcriteriapattern.entity.Person;
+import com.structure.filterorcriteriapattern.service.CriteriaService;
 
 import java.util.List;
 

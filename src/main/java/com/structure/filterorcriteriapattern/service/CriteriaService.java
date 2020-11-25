@@ -1,6 +1,6 @@
-package com.structure.FilterOrCriteriaPattern.service;
+package com.structure.filterorcriteriapattern.service;
 
-import com.structure.FilterOrCriteriaPattern.entity.Person;
+import com.structure.filterorcriteriapattern.entity.Person;
 
 import java.util.List;
 

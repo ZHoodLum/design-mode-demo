@@ -1,11 +1,11 @@
-package com.structure.FilterOrCriteriaPattern.controller;
+package com.structure.filterorcriteriapattern.controller;
 
-import com.structure.FilterOrCriteriaPattern.entity.Person;
-import com.structure.FilterOrCriteriaPattern.service.CriteriaService;
-import com.structure.FilterOrCriteriaPattern.service.impl.AndCriteriaServiceImpl;
-import com.structure.FilterOrCriteriaPattern.service.impl.CriteriaMaleServiceImpl;
-import com.structure.FilterOrCriteriaPattern.service.impl.CriteriaSingleServiceImpl;
-import com.structure.FilterOrCriteriaPattern.service.impl.OrCriteriaServiceImpl;
+import com.structure.filterorcriteriapattern.entity.Person;
+import com.structure.filterorcriteriapattern.service.CriteriaService;
+import com.structure.filterorcriteriapattern.service.impl.AndCriteriaServiceImpl;
+import com.structure.filterorcriteriapattern.service.impl.CriteriaMaleServiceImpl;
+import com.structure.filterorcriteriapattern.service.impl.CriteriaSingleServiceImpl;
+import com.structure.filterorcriteriapattern.service.impl.OrCriteriaServiceImpl;
 
 import java.util.ArrayList;
 import java.util.List;
