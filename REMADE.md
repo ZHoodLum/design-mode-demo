@@ -1,9 +1,9 @@
 ###此项目包含设计模式伪代码及知识点
 每个篇幅下都会有对应的REMADE.md文件说明
 ####说明：
->* 工厂模式篇 Factory Pattern
->* 抽象工厂模式篇 Abstract Factory Pattern
->* 单例模式篇 Singlet Pattern
+>* 工厂模式篇 `Factory Pattern`
+>* 抽象工厂模式篇 `Abstract Factory Pattern`
+>* 单例模式篇 `Singlet Pattern`
 >* 
 >* 
 >* 
