@@ -26,6 +26,7 @@
 >* 迭代器模式 `Iterator Pattern`
 >* 中介者模式 `Mediator Pattern`
 >* 观察者模式 `Observer Pattern`
+>* 空对象模式 `Null Object Pattern`
 
 ---
 
