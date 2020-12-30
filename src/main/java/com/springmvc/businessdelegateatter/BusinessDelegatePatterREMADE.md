@@ -1,4 +1,4 @@
-## 业务代表模式
+##  业务代表模式
 业务代表模式（Business Delegate Pattern）用于对表示层和业务层解耦。它基本上是用来减少通信或对表示层代码中的业务层代码的远程查询功能。在业务层中我们有以下实体。
 
 >* 客户端（Client） - 表示层代码可以是 JSP、servlet 或 UI java 代码。
@@ -9,6 +9,6 @@
 
 >* 业务服务（Business Service） - 业务服务接口。实现了该业务服务的实体类，提供了实际的业务实现逻辑。
 
-## 实现
+##  实现
 我们将创建 Client、BusinessDelegate、BusinessService、LookUpService、JMSService 和 EJBService 来表示业务代表模式中的各种实体。
 BusinessDelegatePatternDemo，我们的演示类使用 BusinessDelegate 和 Client 来演示业务代表模式的用法。
